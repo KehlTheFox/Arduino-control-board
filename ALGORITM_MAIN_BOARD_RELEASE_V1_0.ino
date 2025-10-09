@@ -463,6 +463,8 @@ void INIT (){
 
     delay(1);
     Serial.println(" успешно");
+    Serial.println("Arduino-control-board");
+    Serial.println("Версия скетча : ALGORITM_MAIN_BOARD_RELEASE_V1_0");
 
   }
 
